@@ -59,7 +59,7 @@ import javax.swing.SwingConstants;
 public class ServerFrame extends Frame
 {
   /**
-	 * 
+	 * add some notes to show what it does
 	 */
 
 	private static final long serialVersionUID = 2L;
