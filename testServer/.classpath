@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/cplws/Desktop/eclipse"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-core-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-device-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-device-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-example.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-example-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-example-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-gpio-extension-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-gpio-extension-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-service.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-service-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/CPL_PiPD/testServer/pi4j-service-sources.jar"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/eclipse/plugins/poi-3.12/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/eclipse/plugins/poi-3.12/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/eclipse/plugins/poi-3.12/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/eclipse/plugins/poi-3.12/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/eclipse/plugins/poi-3.12/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/eclipse/plugins/poi-3.12/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cplws/Desktop/eclipse/plugins/poi-3.12/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="pi4j-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="pi4j-core-sources.jar"/>
+	<classpathentry kind="lib" path="pi4j-core.jar"/>
+	<classpathentry kind="lib" path="pi4j-device-javadoc.jar"/>
+	<classpathentry kind="lib" path="pi4j-device-sources.jar"/>
+	<classpathentry kind="lib" path="pi4j-device.jar"/>
+	<classpathentry kind="lib" path="pi4j-example-javadoc.jar"/>
+	<classpathentry kind="lib" path="pi4j-example-sources.jar"/>
+	<classpathentry kind="lib" path="pi4j-example.jar"/>
+	<classpathentry kind="lib" path="pi4j-gpio-extension-javadoc.jar"/>
+	<classpathentry kind="lib" path="pi4j-gpio-extension-sources.jar"/>
+	<classpathentry kind="lib" path="pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="pi4j-service-javadoc.jar"/>
+	<classpathentry kind="lib" path="pi4j-service-sources.jar"/>
+	<classpathentry kind="lib" path="pi4j-service.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CPL_OCSF"/>
+	<classpathentry kind="lib" path="/CPL_OCSF/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
