@@ -77,16 +77,16 @@ public class ClientFrame extends Frame
 	 */
 	private static final long serialVersionUID = 1L;
 	
-	 static String IP = "129.82.38.224" ;
+	 static String IP = "129.82.38.22" ;
 	
 private JButton closeB =     new JButton("Close");
 private JButton openB =      new JButton("Open");
 private JButton sendB =      new JButton("Send");
 private JButton quitB =      new JButton("Quit");
 private TextField port =    new TextField("11111");
-// private TextField host =    new TextField("localhost");
+ private TextField host =    new TextField("localhost");
 //private TextField host =    new TextField("129.82.175.224"); // use for WiFi
-private TextField host =    new TextField(IP); // Ethernet
+//private TextField host =    new TextField(IP); // Ethernet
 private Label portLB =      new Label("Port: ", Label.RIGHT);
 private Label hostLB =      new Label("Host: ", Label.RIGHT);
 private List liste =        new List();
