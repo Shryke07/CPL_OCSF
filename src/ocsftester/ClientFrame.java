@@ -33,8 +33,8 @@ package ocsftester;
 import java.awt.*;
 import java.awt.event.*;
 
-import ocsf.client.*;
-import ocsftester.ClientFrame.TimedStuff.Dispensing;
+//import ocsf.client.*;
+//import ocsftester.ClientFrame.TimedStuff.Dispensing;
 
 import javax.swing.*;
 
@@ -48,7 +48,7 @@ import java.util.TimerTask;
 
 import org.eclipse.wb.swing.FocusTraversalOnArray;
 
-import java.awt.Toolkit;
+//import java.awt.Toolkit;
 
 
 
