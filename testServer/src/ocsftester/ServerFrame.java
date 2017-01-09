@@ -22,14 +22,14 @@ import java.util.Timer;
 import java.util.Date;
 import java.util.TimerTask;
 
-import ocsf.server.*;
+//import ocsf.server.*;
 
 
-import com.pi4j.io.gpio.GpioController;
-import com.pi4j.io.gpio.GpioFactory;
-import com.pi4j.io.gpio.GpioPinDigitalOutput;
-import com.pi4j.io.gpio.PinState;
-import com.pi4j.io.gpio.RaspiPin;
+//import com.pi4j.io.gpio.GpioController;
+//import com.pi4j.io.gpio.GpioFactory;
+//import com.pi4j.io.gpio.GpioPinDigitalOutput;
+//import com.pi4j.io.gpio.PinState;
+//import com.pi4j.io.gpio.RaspiPin;
 import com.pi4j.system.NetworkInfo;
 
 import javax.swing.JLabel;
@@ -59,7 +59,7 @@ import javax.swing.SwingConstants;
 public class ServerFrame extends Frame
 {
   /**
-	 * add some notes to show what it does
+	 * 
 	 */
 
 	private static final long serialVersionUID = 2L;

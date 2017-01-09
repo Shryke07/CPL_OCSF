@@ -77,7 +77,7 @@ public class ClientFrame extends Frame
 	 */
 	private static final long serialVersionUID = 1L;
 	
-	 static String IP = "129.82.38.22" ;
+	// static String IP = "129.82.38.22" ;
 	
 private JButton closeB =     new JButton("Close");
 private JButton openB =      new JButton("Open");
